@@ -1,4 +1,4 @@
-<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/9d5f91e8-d3dc-49ab-b718-98186d085336" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/9d5f91e8-d3dc-49ab-b718-98186d085336" />
 
 
 # Hi, I'm Nabilah Nordin 👋
