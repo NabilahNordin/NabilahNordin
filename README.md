@@ -1,20 +1,14 @@
+<img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d5f91e8-d3dc-49ab-b718-98186d085336" />
+
+
 # Hi, I'm Nabilah Nordin 👋
 
 ### 🎓 Business Intelligence & Information Systems Student | 📊 Aspiring Data Analyst | 💻 Developer
 
 ---
-
-[![My Portfolio]([https://img.shields.io/badge/Portfolio-Click%20Here-1f8ded)](your-portfolio-link-here](https://nabilahnordin.github.io/e-portfolio/))
-
 ---
 
-## ✨ # Hi, I'm Nabilah Nordin 👋
-
-### 🎓 Business Intelligence & Information Systems Student | 📊 Aspiring Data Analyst | 💻 Developer
-
----
-
-##[![My Portfolio][Click here to view](https://nabilahnordin.github.io/e-portfolio/)
+##[My Portfolio][Click here to view](https://nabilahnordin.github.io/e-portfolio/)
 
 ---
 
