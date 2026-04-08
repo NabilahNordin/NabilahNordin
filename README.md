@@ -6,9 +6,11 @@
 ### 🎓 Business Intelligence & Information Systems Student | 📊 Aspiring Data Analyst | 💻 Developer
 
 ---
----
 
-<h2 style="font-weight: bold; font-size: 36px;">My Portfolio</h2> <a href="https://nabilahnordin.github.io/e-portfolio/" style="font-size: 16px;">[Click here to view]</a>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2 style="font-weight: bold; font-size: 36px;">My Portfolio</h2>
+  <a href="https://nabilahnordin.github.io/e-portfolio/" style="font-size: 16px;">[Click here to view]</a>
+</div>
 
 ## 💼 Skills
 
