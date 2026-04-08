@@ -8,7 +8,7 @@
 ---
 ---
 
-##[My Portfolio][Click here to view](https://nabilahnordin.github.io/e-portfolio/)
+#<a href="https://nabilahnordin.github.io/e-portfolio/" style="font-size: 24px; font-weight: bold;">My Portfolio</a> [Click here to view]
 
 ---
 
