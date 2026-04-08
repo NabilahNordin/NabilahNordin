@@ -8,8 +8,8 @@
 ---
 ---
 
-<a href="https://nabilahnordin.github.io/e-portfolio/" style="font-size: 24px; font-weight: bold;">My Portfolio</a> [Click here to view]
-
+<h2 style="font-weight: bold; font-size: 36px;">My Portfolio</h2>
+<a href="https://nabilahnordin.github.io/e-portfolio/" style="font-size: 16px;">[Click here to view]</a>
 ---
 
 ## 💼 Skills
